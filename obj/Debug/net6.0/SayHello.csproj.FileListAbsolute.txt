@@ -1,0 +1,15 @@
+C:\Users\sauls\Documents\CS Academy\Level1\SayHello\SayHello\bin\Debug\net6.0\SayHello.exe
+C:\Users\sauls\Documents\CS Academy\Level1\SayHello\SayHello\bin\Debug\net6.0\SayHello.deps.json
+C:\Users\sauls\Documents\CS Academy\Level1\SayHello\SayHello\bin\Debug\net6.0\SayHello.runtimeconfig.json
+C:\Users\sauls\Documents\CS Academy\Level1\SayHello\SayHello\bin\Debug\net6.0\SayHello.dll
+C:\Users\sauls\Documents\CS Academy\Level1\SayHello\SayHello\bin\Debug\net6.0\SayHello.pdb
+C:\Users\sauls\Documents\CS Academy\Level1\SayHello\SayHello\obj\Debug\net6.0\SayHello.csproj.AssemblyReference.cache
+C:\Users\sauls\Documents\CS Academy\Level1\SayHello\SayHello\obj\Debug\net6.0\SayHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sauls\Documents\CS Academy\Level1\SayHello\SayHello\obj\Debug\net6.0\SayHello.AssemblyInfoInputs.cache
+C:\Users\sauls\Documents\CS Academy\Level1\SayHello\SayHello\obj\Debug\net6.0\SayHello.AssemblyInfo.cs
+C:\Users\sauls\Documents\CS Academy\Level1\SayHello\SayHello\obj\Debug\net6.0\SayHello.csproj.CoreCompileInputs.cache
+C:\Users\sauls\Documents\CS Academy\Level1\SayHello\SayHello\obj\Debug\net6.0\SayHello.dll
+C:\Users\sauls\Documents\CS Academy\Level1\SayHello\SayHello\obj\Debug\net6.0\refint\SayHello.dll
+C:\Users\sauls\Documents\CS Academy\Level1\SayHello\SayHello\obj\Debug\net6.0\SayHello.pdb
+C:\Users\sauls\Documents\CS Academy\Level1\SayHello\SayHello\obj\Debug\net6.0\SayHello.genruntimeconfig.cache
+C:\Users\sauls\Documents\CS Academy\Level1\SayHello\SayHello\obj\Debug\net6.0\ref\SayHello.dll
