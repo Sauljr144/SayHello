@@ -4,18 +4,25 @@
 
 //----Say Hello----//
 
+string playAgain = "Y";
+
 //This is a variable to store the input of the user//
 string name1;
 
-//This will display the question "What is your name?"//
-Console.WriteLine("What is your name?");
+while(playAgain != "N")
+{
+    //This will display the question "What is your name?"//
+    Console.WriteLine("What is your name?");
 
-//stores users input
-name1 = Console.ReadLine();
+    //stores users input
+    name1 = Console.ReadLine();
 
-//this wiill display users input for example "Hello, T-1000" by using interpolatioon
+    //this wiill display users input for example "Hello, T-1000" by using interpolatioon
 
-Console.WriteLine($"Hello, {name1}");
+    Console.WriteLine($"Hello, {name1}");
 
+    Console.WriteLine("Do you want to play again? Y/N");
+    playAgain = Console.ReadLine().ToUpper();
+}
 
-//Peer Reviewed by Amir Smith 08/09/22
+Console.WriteLine("Bye!");

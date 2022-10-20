@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sauls\\Documents\\CS Academy\\Level1\\SayHello\\SayHello\\SayHello.csproj": {}
+    "C:\\Users\\sauls\\Documents\\CS Academy\\Level1\\SayHello\\Sayhello\\SayHello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sauls\\Documents\\CS Academy\\Level1\\SayHello\\SayHello\\SayHello.csproj": {
+    "C:\\Users\\sauls\\Documents\\CS Academy\\Level1\\SayHello\\Sayhello\\SayHello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sauls\\Documents\\CS Academy\\Level1\\SayHello\\SayHello\\SayHello.csproj",
+        "projectUniqueName": "C:\\Users\\sauls\\Documents\\CS Academy\\Level1\\SayHello\\Sayhello\\SayHello.csproj",
         "projectName": "SayHello",
-        "projectPath": "C:\\Users\\sauls\\Documents\\CS Academy\\Level1\\SayHello\\SayHello\\SayHello.csproj",
+        "projectPath": "C:\\Users\\sauls\\Documents\\CS Academy\\Level1\\SayHello\\Sayhello\\SayHello.csproj",
         "packagesPath": "C:\\Users\\sauls\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sauls\\Documents\\CS Academy\\Level1\\SayHello\\SayHello\\obj\\",
+        "outputPath": "C:\\Users\\sauls\\Documents\\CS Academy\\Level1\\SayHello\\Sayhello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sauls\\AppData\\Roaming\\NuGet\\NuGet.Config"
